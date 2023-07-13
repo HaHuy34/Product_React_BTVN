@@ -1,0 +1,196 @@
+/* .navbar {
+  width: 76%;
+  margin: auto;
+  border-bottom: 1px solid gray;
+} */
+.nav-item a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.offcanvas-backdrop.show {
+  opacity: 0.2 !important;
+}
+
+.number {
+  margin: 10px;
+}
+
+.addtocart {
+  margin-top: 10px;
+  background-color: red !important;
+}
+
+.content-edit {
+  width: 100%;
+}
+
+button.card.btn.btn-secondary {
+    margin-left: 10px;
+}
+.main-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+#edit-pro-imag {
+  display: flex;
+  align-items: center;
+}
+
+input.form-control {
+  height: fit-content;
+}
+
+.sub {
+  float: right;
+}
+
+.offcanvas.offcanvas-start.show {
+  width: 80%;
+}
+
+.card-main.col:hover .bx-edit {
+  display: block;
+}
+
+.bx-edit {
+  cursor: pointer;
+  transition: all 0.3s;
+  display: none;
+}
+
+.bx-edit:hover {
+  transform: scale(1.2);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.timeReald {
+  margin: 0;
+}
+
+.time-abs {
+  display: flex;
+  align-items: center;
+}
+
+.time-abs h2 {
+  font-size: 20px;
+  margin: 0 20px 0 0px;
+}
+
+#ok {
+  margin: 0;
+}
+
+.bahs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#input-search {
+  width: 400px;
+}
+
+.card-main {
+  cursor: pointer;
+}
+
+.short {
+  display: flex;
+  justify-content: end;
+  margin-bottom: 40px !important;
+}
+
+input.form-control:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.time-new {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 12px;
+}
+
+#time-real {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.time-new p:first-child {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#buy-now {
+  margin-right: 20px;
+  background-color: #bb2d3b;
+}
+
+.sess {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+}
+
+#add-card-new {
+  display: flex;
+  justify-content: end;
+}
+
+.row {
+  margin-top: 30px !important;
+}
+
+#abs-detail {
+  padding-top: 7px;
+}
+
+.col img {
+  width: 100%;
+}
+
+.des-detail {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.card {
+  padding: 10px !important;
+  margin: auto;
+}
+
+.price-detail {
+  font-size: 23px;
+  color: red;
+}
+
+.form-label {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+a.me-auto {
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.row > * {
+  margin-bottom: 10px;
+}
+
+#image-main {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
